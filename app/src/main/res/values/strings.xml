@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical2_6</string>
+    <string name="I">Введите первое число</string>
+    <string name="II">Введите второе чсло:</string>
+    <string name="count">Вычислить</string>
+    <string name="hi">Гуровский Игорь РИБО-01-22 Вариант 2</string>
+    <string name="start">Start</string>
+    <string name="III">Введите третье число:</string>
+</resources>
